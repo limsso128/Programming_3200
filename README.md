@@ -1,15 +1,23 @@
 # Programming 수업 소스 코드 🫡
+
 ## 02_counter
+
 vanilla HTML, JavaScript
+
 ## React 시작 🤔
+
 ```shell
 npm create vite@latest .
 ```
+
 ### CounterApp 😆
+
 - useState()
 - onClick={() => set함수((state변수) => state변수 + 1)}
 - onClick={함수이름}
+
 ### TodoListApp 🌸
+
 - React Component 분리
 - for -> htmlFor, class -> className
 - props
@@ -39,3 +47,4 @@ npm create vite@latest .
   <Link to="/"></Link>
   ```
 - `useNavigate()`
+- 3200 임o영 1-1 날짜 표시?
