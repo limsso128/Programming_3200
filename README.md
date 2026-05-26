@@ -48,3 +48,4 @@ npm create vite@latest .
   ```
 - `useNavigate()`
 - 3211 임소영 1-2 배경색 ★ useState, CSS class/style 변경
+- 3211 임소영 1-4 font ★ CSS, Google Fonts, theme state
